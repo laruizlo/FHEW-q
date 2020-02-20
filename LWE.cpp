@@ -27,7 +27,7 @@ namespace LWE
 	 *	the absolute values) to 5 + n/2.
 	 *	
 	 *	The second method just samples the entries from the distribution 
-	 *	Chi1, which .
+	 *	Chi1.
 	 */
 
 	void KeyGen(SecretKey sk) 
